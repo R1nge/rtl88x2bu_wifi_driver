@@ -12,7 +12,7 @@
 
 * Install required packages :
 ```
-sudo pacman -Syu git dkms rsync build-essential bc
+sudo pacman -Syu git dkms rsync base-devel bc
 ```
 
 * Clone the driver repository :
